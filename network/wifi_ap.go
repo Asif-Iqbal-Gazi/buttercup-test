@@ -41,9 +41,9 @@ func (ap *AccessPoint) MarshalJSON() ([]byte, error) {
 		Handshake: ap.withKeyMaterial,
 	}
 
-	for _, c := range ap.clients {
-		doc.Clients = append(doc.Clients, c)
-	}
+	//for _, c := range ap.clients {
+	//	doc.Clients = append(doc.Clients, c)
+	//}
 
 	return json.Marshal(doc)
 }

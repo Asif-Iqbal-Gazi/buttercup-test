@@ -29,6 +29,7 @@ func (mod *RestAPI) streamEvent(ws *websocket.Conn, event session.Event) error {
 
 	ws.SetWriteDeadline(time.Now().Add(writeWait))
 	if err := ws.WriteMessage(websocket.TextMessage, msg); err != nil {
+		mod.Info("API_MSG: %s", msg)
 		if !strings.Contains(err.Error(), "closed connection") {
 			mod.Error("Error while writing websocket message: %s", err)
 			return err
