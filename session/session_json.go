@@ -6,10 +6,10 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/buttercup-test/bettercap/caplets"
-	"github.com/buttercup-test/bettercap/core"
-	"github.com/buttercup-test/bettercap/network"
-	"github.com/buttercup-test/bettercap/packets"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/caplets"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/core"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/network"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/packets"
 )
 
 var flagNames = []string{

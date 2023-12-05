@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"time"
 
-	"github.com/buttercup-test/bettercap/network"
-	"github.com/buttercup-test/bettercap/packets"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/network"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/packets"
 
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"

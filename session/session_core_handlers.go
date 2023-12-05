@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/buttercup-test/bettercap/core"
-	"github.com/buttercup-test/bettercap/network"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/core"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/network"
 
 	"github.com/bettercap/readline"
 	"github.com/evilsocket/islazy/str"

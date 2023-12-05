@@ -66,7 +66,7 @@ func (mod *BLERecon) onPeriphConnected(p gatt.Peripheral, err error) {
 
 	mod.Debug("connected, enumerating all the things for %s!", p.ID())
 	services, err := p.DiscoverServices(nil)
-	// https://github.com/buttercup-test/bettercap/issues/498
+	// https://github.com/Asif-Iqbal-Gazi/buttercup-test/issues/498
 	if err != nil && err.Error() != "success" {
 		mod.Error("error discovering services: %s", err)
 		return

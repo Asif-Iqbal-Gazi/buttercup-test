@@ -7,7 +7,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/buttercup-test/bettercap/network"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/network"
 
 	"github.com/evilsocket/islazy/ops"
 	"github.com/evilsocket/islazy/tui"

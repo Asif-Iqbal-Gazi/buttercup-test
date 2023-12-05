@@ -1,7 +1,7 @@
 package log
 
 import (
-	"github.com/buttercup-test/bettercap/session"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/session"
 
 	ll "github.com/evilsocket/islazy/log"
 )

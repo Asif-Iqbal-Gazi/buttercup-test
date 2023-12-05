@@ -3,7 +3,7 @@
 package packet_proxy
 
 import (
-	"github.com/buttercup-test/bettercap/session"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/session"
 )
 
 type PacketProxy struct {

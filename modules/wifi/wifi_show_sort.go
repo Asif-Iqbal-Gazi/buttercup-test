@@ -1,8 +1,8 @@
 package wifi
 
 import (
-	"github.com/buttercup-test/bettercap/network"
-	"github.com/buttercup-test/bettercap/session"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/network"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/session"
 )
 
 type ByRSSISorter []*network.Station

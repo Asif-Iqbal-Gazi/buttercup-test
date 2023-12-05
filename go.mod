@@ -1,4 +1,4 @@
-module github.com/buttercup-test/bettercap
+module github.com/Asif-Iqbal-Gazi/buttercup-test
 
 go 1.12
 

@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/buttercup-test/bettercap/session"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/session"
 
 	"github.com/evilsocket/islazy/tui"
 )

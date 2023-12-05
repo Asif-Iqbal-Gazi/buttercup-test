@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/buttercup-test/bettercap/network"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/network"
 
 	"github.com/bettercap/nrf24"
 

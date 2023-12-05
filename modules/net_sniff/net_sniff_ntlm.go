@@ -4,7 +4,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/buttercup-test/bettercap/packets"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/packets"
 
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"

@@ -16,9 +16,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/buttercup-test/bettercap/firewall"
-	"github.com/buttercup-test/bettercap/session"
-	btls "github.com/buttercup-test/bettercap/tls"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/firewall"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/session"
+	btls "github.com/Asif-Iqbal-Gazi/buttercup-test/tls"
 
 	"github.com/elazarl/goproxy"
 	"github.com/inconshreveable/go-vhost"

@@ -5,7 +5,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/buttercup-test/bettercap/session"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/session"
 
 	"github.com/adrianmo/go-nmea"
 	"github.com/koppacetic/go-gpsd"

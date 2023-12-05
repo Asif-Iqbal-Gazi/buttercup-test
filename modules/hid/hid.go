@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/buttercup-test/bettercap/modules/utils"
-	"github.com/buttercup-test/bettercap/session"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/modules/utils"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/session"
 
 	"github.com/bettercap/nrf24"
 )

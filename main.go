@@ -8,10 +8,10 @@ import (
 
 	"runtime"
 
-	"github.com/buttercup-test/bettercap/core"
-	"github.com/buttercup-test/bettercap/log"
-	"github.com/buttercup-test/bettercap/modules"
-	"github.com/buttercup-test/bettercap/session"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/core"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/log"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/modules"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/session"
 
 	"github.com/evilsocket/islazy/str"
 	"github.com/evilsocket/islazy/tui"

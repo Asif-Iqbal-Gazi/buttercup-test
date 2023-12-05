@@ -1,8 +1,8 @@
 package any_proxy
 
 import (
-	"github.com/buttercup-test/bettercap/firewall"
-	"github.com/buttercup-test/bettercap/session"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/firewall"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/session"
 )
 
 type AnyProxy struct {

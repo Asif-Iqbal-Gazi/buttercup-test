@@ -3,7 +3,7 @@
 package ble
 
 import (
-	"github.com/buttercup-test/bettercap/network"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/network"
 )
 
 type ByBLERSSISorter []*network.BLEDevice

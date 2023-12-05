@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"net"
 
-	"github.com/buttercup-test/bettercap/network"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/network"
 
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"

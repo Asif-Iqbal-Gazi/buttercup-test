@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/buttercup-test/bettercap/modules/net_recon"
-	"github.com/buttercup-test/bettercap/network"
-	"github.com/buttercup-test/bettercap/session"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/modules/net_recon"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/network"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/session"
 
 	"github.com/dustin/go-humanize"
 

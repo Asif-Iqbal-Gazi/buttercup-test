@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/buttercup-test/bettercap/core"
-	"github.com/buttercup-test/bettercap/session"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/core"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/session"
 
 	"github.com/google/go-github/github"
 

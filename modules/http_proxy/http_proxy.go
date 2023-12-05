@@ -1,7 +1,7 @@
 package http_proxy
 
 import (
-	"github.com/buttercup-test/bettercap/session"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/session"
 
 	"github.com/evilsocket/islazy/str"
 )

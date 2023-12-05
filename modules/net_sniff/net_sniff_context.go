@@ -5,8 +5,8 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/buttercup-test/bettercap/log"
-	"github.com/buttercup-test/bettercap/session"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/log"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/session"
 
 	"github.com/google/gopacket/pcap"
 	"github.com/google/gopacket/pcapgo"

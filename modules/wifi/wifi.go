@@ -9,10 +9,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/buttercup-test/bettercap/modules/utils"
-	"github.com/buttercup-test/bettercap/network"
-	"github.com/buttercup-test/bettercap/packets"
-	"github.com/buttercup-test/bettercap/session"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/modules/utils"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/network"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/packets"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/session"
 
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"

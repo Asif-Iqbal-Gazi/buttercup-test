@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/buttercup-test/bettercap/caplets"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/caplets"
 
 	"github.com/bettercap/readline"
 

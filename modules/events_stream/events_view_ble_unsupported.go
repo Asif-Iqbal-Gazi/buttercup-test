@@ -3,7 +3,7 @@
 package events_stream
 
 import (
-	"github.com/buttercup-test/bettercap/session"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/session"
 )
 
 func (mod *EventsStream) viewBLEEvent(e session.Event) {

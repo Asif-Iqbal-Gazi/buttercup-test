@@ -1,7 +1,7 @@
 # build stage
 FROM golang:alpine AS build-env
 
-ENV SRC_DIR $GOPATH/src/github.com/buttercup-test/bettercap
+ENV SRC_DIR $GOPATH/src/github.com/Asif-Iqbal-Gazi/buttercup-test
 
 RUN apk add --update ca-certificates
 RUN apk add --no-cache --update bash iptables wireless-tools build-base libpcap-dev libusb-dev linux-headers libnetfilter_queue-dev git
@@ -18,7 +18,7 @@ RUN git clone https://github.com/buttercup-test/caplets /usr/local/share/betterc
 FROM alpine
 RUN apk add --update ca-certificates
 RUN apk add --no-cache --update bash iproute2 libpcap libusb-dev libnetfilter_queue wireless-tools
-COPY --from=build-env /go/src/github.com/buttercup-test/bettercap/bettercap /app/
+COPY --from=build-env /go/src/github.com/Asif-Iqbal-Gazi/buttercup-test/bettercap /app/
 COPY --from=build-env /usr/local/share/bettercap/caplets /app/
 WORKDIR /app
 

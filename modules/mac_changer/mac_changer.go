@@ -6,9 +6,9 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/buttercup-test/bettercap/core"
-	"github.com/buttercup-test/bettercap/network"
-	"github.com/buttercup-test/bettercap/session"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/core"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/network"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/session"
 
 	"github.com/evilsocket/islazy/tui"
 )

@@ -3,7 +3,7 @@ package net_sniff
 import (
 	"encoding/asn1"
 
-	"github.com/buttercup-test/bettercap/packets"
+	"github.com/Asif-Iqbal-Gazi/buttercup-test/packets"
 
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
