@@ -12,7 +12,7 @@ import (
 	"github.com/buttercup-test/bettercap/network"
 	"github.com/buttercup-test/bettercap/session"
 
-	"github.com/buttercup-test/gatt"
+	"github.com/bettercap/gatt"
 
 	"github.com/evilsocket/islazy/str"
 )

@@ -6,10 +6,10 @@ require (
 	github.com/adrianmo/go-nmea v1.3.0
 	github.com/antchfx/jsonquery v1.1.4
 	github.com/antchfx/xpath v1.1.10 // indirect
-	github.com/buttercup-test/gatt v0.0.0-20191018133023-569d3d9372bb
-	github.com/buttercup-test/nrf24 v0.0.0-20190219153547-aa37e6d0e0eb
-	github.com/buttercup-test/readline v0.0.0-20180208083827-9cec905dd291
-	github.com/buttercup-test/recording v0.0.0-20190408083647-3ce1dcf032e3
+	github.com/bettercap/gatt v0.0.0-20191018133023-569d3d9372bb
+	github.com/bettercap/nrf24 v0.0.0-20190219153547-aa37e6d0e0eb
+	github.com/bettercap/readline v0.0.0-20180208083827-9cec905dd291
+	github.com/bettercap/recording v0.0.0-20190408083647-3ce1dcf032e3
 	github.com/chifflier/nfqueue-go v0.0.0-20170228160439-61ca646babef
 	github.com/chzyer/logex v1.1.10 // indirect
 	github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1 // indirect

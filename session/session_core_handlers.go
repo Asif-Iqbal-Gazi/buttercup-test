@@ -15,7 +15,7 @@ import (
 	"github.com/buttercup-test/bettercap/core"
 	"github.com/buttercup-test/bettercap/network"
 
-	"github.com/buttercup-test/readline"
+	"github.com/bettercap/readline"
 	"github.com/evilsocket/islazy/str"
 	"github.com/evilsocket/islazy/tui"
 )

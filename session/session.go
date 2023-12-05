@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/buttercup-test/readline"
+	"github.com/bettercap/readline"
 
 	"github.com/buttercup-test/bettercap/caplets"
 	"github.com/buttercup-test/bettercap/core"

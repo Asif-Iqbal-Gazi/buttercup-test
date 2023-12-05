@@ -7,7 +7,7 @@ import (
 
 	"github.com/buttercup-test/bettercap/network"
 
-	"github.com/buttercup-test/nrf24"
+	"github.com/bettercap/nrf24"
 
 	"github.com/evilsocket/islazy/str"
 	"github.com/evilsocket/islazy/tui"

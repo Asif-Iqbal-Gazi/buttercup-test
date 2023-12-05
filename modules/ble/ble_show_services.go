@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/buttercup-test/bettercap/network"
-	"github.com/buttercup-test/gatt"
+	"github.com/bettercap/gatt"
 
 	"github.com/evilsocket/islazy/tui"
 )

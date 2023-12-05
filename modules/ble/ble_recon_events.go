@@ -3,7 +3,7 @@
 package ble
 
 import (
-	"github.com/buttercup-test/gatt"
+	"github.com/bettercap/gatt"
 )
 
 func (mod *BLERecon) onStateChanged(dev gatt.Device, s gatt.State) {

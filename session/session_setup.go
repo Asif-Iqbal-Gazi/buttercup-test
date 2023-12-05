@@ -10,7 +10,7 @@ import (
 
 	"github.com/buttercup-test/bettercap/caplets"
 
-	"github.com/buttercup-test/readline"
+	"github.com/bettercap/readline"
 
 	"github.com/evilsocket/islazy/fs"
 	"github.com/evilsocket/islazy/log"

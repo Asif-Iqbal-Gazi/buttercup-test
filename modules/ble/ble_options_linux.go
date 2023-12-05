@@ -1,8 +1,8 @@
 package ble
 
 import (
-	"github.com/buttercup-test/gatt"
-	// "github.com/buttercup-test/gatt/linux/cmd"
+	"github.com/bettercap/gatt"
+	// "github.com/bettercap/gatt/linux/cmd"
 )
 
 var defaultBLEClientOptions = []gatt.Option{

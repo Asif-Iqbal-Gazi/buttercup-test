@@ -10,7 +10,7 @@ import (
 	"github.com/buttercup-test/bettercap/session"
 	"github.com/buttercup-test/bettercap/tls"
 
-	"github.com/buttercup-test/recording"
+	"github.com/bettercap/recording"
 
 	"github.com/gorilla/mux"
 	"github.com/gorilla/websocket"
