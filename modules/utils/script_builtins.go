@@ -7,8 +7,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/bettercap/bettercap/log"
-	"github.com/bettercap/bettercap/session"
+	"github.com/buttercup-test/bettercap/log"
+	"github.com/buttercup-test/bettercap/session"
 
 	"github.com/evilsocket/islazy/plugin"
 

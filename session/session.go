@@ -12,13 +12,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bettercap/readline"
+	"github.com/buttercup-test/readline"
 
-	"github.com/bettercap/bettercap/caplets"
-	"github.com/bettercap/bettercap/core"
-	"github.com/bettercap/bettercap/firewall"
-	"github.com/bettercap/bettercap/network"
-	"github.com/bettercap/bettercap/packets"
+	"github.com/buttercup-test/bettercap/caplets"
+	"github.com/buttercup-test/bettercap/core"
+	"github.com/buttercup-test/bettercap/firewall"
+	"github.com/buttercup-test/bettercap/network"
+	"github.com/buttercup-test/bettercap/packets"
 
 	"github.com/evilsocket/islazy/data"
 	"github.com/evilsocket/islazy/fs"

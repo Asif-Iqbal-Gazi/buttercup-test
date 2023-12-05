@@ -5,8 +5,8 @@ package events_stream
 import (
 	"fmt"
 
-	"github.com/bettercap/bettercap/network"
-	"github.com/bettercap/bettercap/session"
+	"github.com/buttercup-test/bettercap/network"
+	"github.com/buttercup-test/bettercap/session"
 
 	"github.com/evilsocket/islazy/tui"
 )

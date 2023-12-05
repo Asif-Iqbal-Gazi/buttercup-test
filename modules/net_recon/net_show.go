@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bettercap/bettercap/network"
-	"github.com/bettercap/bettercap/packets"
+	"github.com/buttercup-test/bettercap/network"
+	"github.com/buttercup-test/bettercap/packets"
 
 	"github.com/dustin/go-humanize"
 

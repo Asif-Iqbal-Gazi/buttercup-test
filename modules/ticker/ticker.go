@@ -3,7 +3,7 @@ package ticker
 import (
 	"time"
 
-	"github.com/bettercap/bettercap/session"
+	"github.com/buttercup-test/bettercap/session"
 )
 
 type Ticker struct {

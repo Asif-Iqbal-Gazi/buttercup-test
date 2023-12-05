@@ -7,10 +7,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bettercap/bettercap/session"
-	"github.com/bettercap/bettercap/tls"
+	"github.com/buttercup-test/bettercap/session"
+	"github.com/buttercup-test/bettercap/tls"
 
-	"github.com/bettercap/recording"
+	"github.com/buttercup-test/recording"
 
 	"github.com/gorilla/mux"
 	"github.com/gorilla/websocket"

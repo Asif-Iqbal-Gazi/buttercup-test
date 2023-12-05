@@ -3,8 +3,8 @@ package net_sniff
 import (
 	"strings"
 
-	"github.com/bettercap/bettercap/packets"
-	"github.com/bettercap/bettercap/session"
+	"github.com/buttercup-test/bettercap/packets"
+	"github.com/buttercup-test/bettercap/session"
 
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"

@@ -10,8 +10,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/bettercap/bettercap/modules/net_sniff"
-	"github.com/bettercap/bettercap/session"
+	"github.com/buttercup-test/bettercap/modules/net_sniff"
+	"github.com/buttercup-test/bettercap/session"
 
 	"github.com/evilsocket/islazy/tui"
 )

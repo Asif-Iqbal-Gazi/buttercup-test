@@ -8,11 +8,11 @@ import (
 	golog "log"
 	"time"
 
-	"github.com/bettercap/bettercap/modules/utils"
-	"github.com/bettercap/bettercap/network"
-	"github.com/bettercap/bettercap/session"
+	"github.com/buttercup-test/bettercap/modules/utils"
+	"github.com/buttercup-test/bettercap/network"
+	"github.com/buttercup-test/bettercap/session"
 
-	"github.com/bettercap/gatt"
+	"github.com/buttercup-test/gatt"
 
 	"github.com/evilsocket/islazy/str"
 )

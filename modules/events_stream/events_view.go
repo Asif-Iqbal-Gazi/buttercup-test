@@ -6,11 +6,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bettercap/bettercap/network"
-	"github.com/bettercap/bettercap/session"
+	"github.com/buttercup-test/bettercap/network"
+	"github.com/buttercup-test/bettercap/session"
 
-	"github.com/bettercap/bettercap/modules/net_sniff"
-	"github.com/bettercap/bettercap/modules/syn_scan"
+	"github.com/buttercup-test/bettercap/modules/net_sniff"
+	"github.com/buttercup-test/bettercap/modules/syn_scan"
 
 	"github.com/google/go-github/github"
 

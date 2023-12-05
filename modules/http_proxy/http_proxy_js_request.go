@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/bettercap/bettercap/session"
+	"github.com/buttercup-test/bettercap/session"
 )
 
 type JSRequest struct {

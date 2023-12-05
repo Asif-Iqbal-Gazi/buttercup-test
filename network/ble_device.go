@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/bettercap/gatt"
+	"github.com/buttercup-test/gatt"
 )
 
 type BLECharacteristic struct {

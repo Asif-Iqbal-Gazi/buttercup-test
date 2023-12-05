@@ -6,7 +6,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/bettercap/bettercap/network"
+	"github.com/buttercup-test/bettercap/network"
 
 	"github.com/dustin/go-humanize"
 

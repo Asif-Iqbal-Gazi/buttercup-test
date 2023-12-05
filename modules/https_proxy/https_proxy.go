@@ -1,9 +1,9 @@
 package https_proxy
 
 import (
-	"github.com/bettercap/bettercap/modules/http_proxy"
-	"github.com/bettercap/bettercap/session"
-	"github.com/bettercap/bettercap/tls"
+	"github.com/buttercup-test/bettercap/modules/http_proxy"
+	"github.com/buttercup-test/bettercap/session"
+	"github.com/buttercup-test/bettercap/tls"
 
 	"github.com/evilsocket/islazy/fs"
 	"github.com/evilsocket/islazy/str"

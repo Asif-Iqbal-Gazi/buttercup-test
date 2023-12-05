@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bettercap/bettercap/core"
+	"github.com/buttercup-test/bettercap/core"
 )
 
 // only matches gateway lines

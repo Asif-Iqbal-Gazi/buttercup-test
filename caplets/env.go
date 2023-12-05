@@ -12,7 +12,7 @@ import (
 const (
 	EnvVarName     = "CAPSPATH"
 	Suffix         = ".cap"
-	InstallArchive = "https://github.com/bettercap/caplets/archive/master.zip"
+	InstallArchive = "https://github.com/buttercup-test/caplets/archive/master.zip"
 )
 
 func getInstallBase() string {

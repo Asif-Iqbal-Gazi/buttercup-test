@@ -3,7 +3,7 @@ package events_stream
 import (
 	"os"
 
-	"github.com/bettercap/bettercap/session"
+	"github.com/buttercup-test/bettercap/session"
 
 	"github.com/evilsocket/islazy/tui"
 )

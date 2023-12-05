@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bettercap/bettercap/session"
+	"github.com/buttercup-test/bettercap/session"
 
 	"github.com/evilsocket/islazy/tui"
 )
